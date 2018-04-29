@@ -89,11 +89,11 @@
 		B35229FF206FE25600F4943C /* Todoey */ = {
 			isa = PBXGroup;
 			children = (
-				B32030B5208CC4050027935F /* Supporting FIles */,
+				B3522A00206FE25600F4943C /* AppDelegate.swift */,
 				B32030B4208539E50027935F /* Views */,
 				B32030B2208539CE0027935F /* Controllers */,
 				B32030B1208538350027935F /* Data Model */,
-				B3522A00206FE25600F4943C /* AppDelegate.swift */,
+				B32030B5208CC4050027935F /* Supporting FIles */,
 				B3522A0C206FE25800F4943C /* Info.plist */,
 			);
 			path = Todoey;
